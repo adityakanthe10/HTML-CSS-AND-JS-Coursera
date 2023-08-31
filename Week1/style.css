@@ -1,0 +1,24 @@
+h1{text-align: center;}
+
+.box1{
+     background-color: grey;
+        float: left;
+        width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+        padding: 50px; /* if you want space between the images */
+        margin: 1px;
+}
+
+.left{
+    text-align: end;
+    background-color: palevioletred;
+}
+
+.beef{
+    text-align: end;
+    background-color: red;
+}
+
+.sushi{
+    text-align: end;
+    background-color: palegoldenrod;
+}
